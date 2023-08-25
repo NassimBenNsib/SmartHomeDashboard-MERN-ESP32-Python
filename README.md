@@ -3,10 +3,11 @@
 Welcome to the MERN + ESP32 Smart Home Dashboard project! This project combines the power of the MERN stack (MongoDB, Express.js, React, Node.js) with ESP32 micro-controllers to create a comprehensive smart home dashboard.
 
 ## Screenshots
-![Offline](Screenshots/offline.png)
+
 ![Dashboard](Screenshots/dashboard-1.png)
 ![Dashboard](Screenshots/dashboard-2.png)
 ![Dashboard](Screenshots/dashboard-3.png)
+![Offline](Screenshots/offline.png "Offline")
 ## Features
 
 - Monitor and control various devices within your smart home remotely.
